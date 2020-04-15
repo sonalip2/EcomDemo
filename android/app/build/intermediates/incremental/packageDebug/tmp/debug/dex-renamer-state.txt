@@ -1,0 +1,4 @@
+#Wed Apr 15 11:31:36 IST 2020
+base.0=/home/acer/Projects/Extra/EcomDemo/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

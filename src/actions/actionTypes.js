@@ -1,0 +1,2 @@
+export const SET_LISTING_DATA = 'SET_LISTING_DATA';
+export const SET_CART_DATA = 'SET_CART_DATA';
